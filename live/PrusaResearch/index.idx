@@ -1,4 +1,4 @@
-10.0.5 Fix gcode flavors, reduce Rostock default infill from 30% to 15%
+10.0.6 Fix gcode flavors, reduce Rostock default infill from 30% to 15%
 10.0.5 Fix Rostock build height, add missing default print and filament profiles
 10.0.4 Fix infill overlap settings
 10.0.3 Change Rostock default filament profile to PLA, change Creality default infill to 15%
