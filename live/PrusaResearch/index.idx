@@ -1,3 +1,4 @@
+10.0.9 Decrease number of outer shells on Ultimaker 
 10.0.8 Disable one at a time printing for Ultimaker
 10.0.7 Add filament costs
 10.0.6 Fix gcode flavors, reduce Rostock default infill from 30% to 15%
