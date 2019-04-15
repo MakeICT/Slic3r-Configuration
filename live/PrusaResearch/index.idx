@@ -1,3 +1,4 @@
+10.0.15 Fix Creality max height and profile naming inconsistency
 10.0.14 Disable "Avoid Crossing Perimeters"	due to odd and inefficient toolpaths
 10.0.13 Add Ultimaker dual extruder profiles
 10.0.12 Add CR-10 ABS Profile
