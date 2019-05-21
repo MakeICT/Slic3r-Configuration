@@ -1,3 +1,4 @@
+10.0.17 Fix Creality and Ultimaker naming inconsistency
 10.0.16 Fix Creality naming inconsistency and add Creality PETG profile
 10.0.15 Fix Creality max height and profile naming inconsistency
 10.0.14 Disable "Avoid Crossing Perimeters"	due to odd and inefficient toolpaths
